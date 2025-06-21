@@ -1,0 +1,16 @@
+<section id="galerie">
+    <h2>Leben im Grünen Kraz - Unsere Welt in Bildern</h2> 
+     <div class="gallery">
+        <img src="img/restaurant.jpg" alt="Leo's Garden Restaurant">
+        <img src="img/BH.jpg" alt="Kunstgalerie Bellhaus">
+        <img src="img/friseur.jpg" alt="Leather Connection">
+        <img src="img/laden.jpg" alt="Obeco Showroom">
+        <img src="img/laden.jpg" alt="African Chic">
+        <img src="img/hof.jpg" alt="Kaleidoskop">
+        <img src="img/hoff.jpg" alt="Second Hand Concept Store">
+        <img src="img/hoff.jpg" alt="Siemplex">
+        <img src="img/hoff.jpg" alt="Zen Parlour">
+        <img src="img/hoff.jpg" alt="Friseur P.J. Venter">
+        <img src="img/hausfront.jpg" alt="Historischer großer Saal">
+    </div>
+</section>
